@@ -82,3 +82,9 @@
 <!ENTITY superstart.options.about "Om...">
 <!ENTITY superstart.options.author "Udvikler">
 <!ENTITY superstart.options.help "Hjælp">
+
+<!-- export / import -->
+<!ENTITY superstart.export "Eksporter">
+<!ENTITY superstart.import "Importer">
+<!ENTITY superstart.import.sites.only "Importer kun sider">
+<!ENTITY superstart.processing "Behandler">
