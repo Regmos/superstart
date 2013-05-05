@@ -6,7 +6,7 @@
 <!ENTITY superstart.dialog.url.snapshot.lefttop "Øverste venstre hjørne">
 <!ENTITY superstart.dialog.url.snapshot.entire "Hele vinduet">
 <!ENTITY superstart.dialog.url.snapshot.use.lastvisited "Firefox miniaturefunktion (understøttes ikke altid)">
-<!ENTITY superstart.dialog.url.snapshot.customize "tilpas billede">
+<!ENTITY superstart.dialog.url.snapshot.customize "Tilpas billede">
 
 <!-- group name -->
 <!ENTITY superstart.dialog.groupname.title "Angiv gruppenavn">
